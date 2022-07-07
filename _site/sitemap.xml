@@ -10,6 +10,9 @@
 <loc>http://0.0.0.0:4000/anmeldung</loc>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/athletes</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/</loc>
 </url>
 <url>

@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "Anmeldung"
-    url: /anmeldung
-  - title: "Über..."
-    url: /about
+  - title: "Home"
+    url: /
+  - title: "Kontakt"
+    url: /kontakt
+  - title: "Athletes"
+    url: /athletes
 
 

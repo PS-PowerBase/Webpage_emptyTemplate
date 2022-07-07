@@ -10,25 +10,25 @@ share: false
 
 #### Anbieter
 
-Per Starke, Willi-Lauf Allee 43, D-50858 Köln
+Max Mustermann, Teststraße 15, D-50858 Köln
 
 
 #### Kontakt
 
-Telefon: +49 160 9326 8817 <br>
+Telefon: +49 1111111111 <br>
 e-Mail: <a href="xmxaxixlxtxo:xpxexrx@xsxtxaxrxkxex-xtxexaxmx.xdxex" onmouseover="this.href=this.href.replace(/x/g,'');"><i class="fa fa-fw fa-envelope"></i>Email (Adresse gegen Spam geschützt)</a>
 
 <br>
 
 #### Verantwortlich nach § 6 Abs.2 MDStV
 
-Per Starke, Willi-Lauf Allee 43, D-50858 Köln
+Max Mustermann, Teststraße 15, D-50858 Köln
 
 
 ## Datenschutzerklärung
 
 #### Geltungsbereich
-Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den vorstehend genannten Anbieter Dr. Gernot Starke auf dieser Website (im folgenden “Angebot”) auf.<br />
+Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den vorstehend genannten Anbieter Max Mustermann auf dieser Website (im folgenden “Angebot”) auf.<br />
 <br />
 Die rechtlichen Grundlagen des Datenschutzes finden sich im Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).<br />
 <br />
